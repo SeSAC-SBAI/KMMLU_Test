@@ -1,0 +1,74 @@
+[
+  {
+    "model": "Llama-3-Ko-8B (8bit)",
+    "model_path": "beomi/Llama-3-Open-Ko-8B",
+    "overall": 0.31475877819012277,
+    "stem": 0.3276767676767677,
+    "humss": 0.2711500974658869,
+    "applied": 0.3293103448275862,
+    "other": 0.30607142857142855,
+    "best": {
+      "name": "Computer Science",
+      "score": 0.431
+    },
+    "worst": {
+      "name": "Real Estate",
+      "score": 0.21
+    },
+    "timestamp": "2025-10-21T04:18:14.410420"
+  },
+  {
+    "model": "kullm-polyglot-5.8b-v2 (16bit)",
+    "model_path": "nlpai-lab/kullm-polyglot-5.8b-v2",
+    "overall": 0.22986011989723096,
+    "stem": 0.22383838383838384,
+    "humss": 0.2541910331384016,
+    "applied": 0.22077586206896552,
+    "other": 0.23464285714285715,
+    "best": {
+      "name": "Accounting",
+      "score": 0.3
+    },
+    "worst": {
+      "name": "Mechanical Engineering",
+      "score": 0.166
+    },
+    "timestamp": "2025-10-21T04:39:08.877827"
+  },
+  {
+    "model": "A.X-4.0-Light (16bit)",
+    "model_path": "skt/A.X-4.0-Light",
+    "overall": 0.5527262346560091,
+    "stem": 0.5632323232323232,
+    "humss": 0.6177387914230019,
+    "applied": 0.5187931034482759,
+    "other": 0.5475,
+    "best": {
+      "name": "Education",
+      "score": 0.85
+    },
+    "worst": {
+      "name": "Math",
+      "score": 0.28
+    },
+    "timestamp": "2025-10-21T04:59:00.449123"
+  },
+  {
+    "model": "YanoljaNEXT-EEVE-10.8B (8bit)",
+    "model_path": "yanolja/YanoljaNEXT-EEVE-10.8B",
+    "overall": 0.3390522409363403,
+    "stem": 0.3429292929292929,
+    "humss": 0.31617933723196884,
+    "applied": 0.3418965517241379,
+    "other": 0.3445238095238095,
+    "best": {
+      "name": "Computer Science",
+      "score": 0.479
+    },
+    "worst": {
+      "name": "Real Estate",
+      "score": 0.26
+    },
+    "timestamp": "2025-10-21T06:30:26.004701"
+  }
+]
